@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    text-decoration: underline;
+    text-decoration-style: double;
+}
+p{
+    font-size: 30px;
+}
